@@ -131,6 +131,3 @@ Add cycle detection for directed graphs
 
 Add visualization of graph traversal
 
-## Author
-
-CSE Student learning algorithms and preparing for GATE.
